@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "https://facundohansen.github.io/csb-2tmqn4/static/css/main.4b3edafc.chunk.css",
-    "main.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/main.35ccf0d3.chunk.js",
-    "main.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/main.35ccf0d3.chunk.js.map",
-    "runtime-main.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/runtime-main.cacc8892.js",
-    "runtime-main.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/runtime-main.cacc8892.js.map",
-    "static/js/2.ce1181ae.chunk.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/2.ce1181ae.chunk.js",
-    "static/js/2.ce1181ae.chunk.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/2.ce1181ae.chunk.js.map",
+    "main.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/main.81cb38f4.chunk.js",
+    "main.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/main.81cb38f4.chunk.js.map",
+    "runtime-main.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/runtime-main.fce98442.js",
+    "runtime-main.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/runtime-main.fce98442.js.map",
+    "static/js/2.d418e96a.chunk.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/2.d418e96a.chunk.js",
+    "static/js/2.d418e96a.chunk.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/2.d418e96a.chunk.js.map",
     "static/js/3.5ed23a39.chunk.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/3.5ed23a39.chunk.js",
     "static/js/3.5ed23a39.chunk.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/3.5ed23a39.chunk.js.map",
     "static/js/4.a8bb7ccd.chunk.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/4.a8bb7ccd.chunk.js",
     "static/js/4.a8bb7ccd.chunk.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/4.a8bb7ccd.chunk.js.map",
-    "static/js/5.c0ae6c7e.chunk.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/5.c0ae6c7e.chunk.js",
-    "static/js/5.c0ae6c7e.chunk.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/5.c0ae6c7e.chunk.js.map",
+    "static/js/5.4e677765.chunk.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/5.4e677765.chunk.js",
+    "static/js/5.4e677765.chunk.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/5.4e677765.chunk.js.map",
     "static/js/6.e2aaeda1.chunk.js": "https://facundohansen.github.io/csb-2tmqn4/static/js/6.e2aaeda1.chunk.js",
     "static/js/6.e2aaeda1.chunk.js.map": "https://facundohansen.github.io/csb-2tmqn4/static/js/6.e2aaeda1.chunk.js.map",
     "index.html": "https://facundohansen.github.io/csb-2tmqn4/index.html",
     "static/css/main.4b3edafc.chunk.css.map": "https://facundohansen.github.io/csb-2tmqn4/static/css/main.4b3edafc.chunk.css.map",
-    "static/js/2.ce1181ae.chunk.js.LICENSE.txt": "https://facundohansen.github.io/csb-2tmqn4/static/js/2.ce1181ae.chunk.js.LICENSE.txt",
-    "static/js/5.c0ae6c7e.chunk.js.LICENSE.txt": "https://facundohansen.github.io/csb-2tmqn4/static/js/5.c0ae6c7e.chunk.js.LICENSE.txt",
+    "static/js/2.d418e96a.chunk.js.LICENSE.txt": "https://facundohansen.github.io/csb-2tmqn4/static/js/2.d418e96a.chunk.js.LICENSE.txt",
+    "static/js/5.4e677765.chunk.js.LICENSE.txt": "https://facundohansen.github.io/csb-2tmqn4/static/js/5.4e677765.chunk.js.LICENSE.txt",
     "static/media/icon-laptop.c0d1bfa0.svg": "https://facundohansen.github.io/csb-2tmqn4/static/media/icon-laptop.c0d1bfa0.svg",
     "static/media/logo_begui_warrior.051d291e.png": "https://facundohansen.github.io/csb-2tmqn4/static/media/logo_begui_warrior.051d291e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cacc8892.js",
-    "static/js/2.ce1181ae.chunk.js",
+    "static/js/runtime-main.fce98442.js",
+    "static/js/2.d418e96a.chunk.js",
     "static/css/main.4b3edafc.chunk.css",
-    "static/js/main.35ccf0d3.chunk.js"
+    "static/js/main.81cb38f4.chunk.js"
   ]
 }
